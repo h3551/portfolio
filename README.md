@@ -1,2 +1,2 @@
-# portfolio
-h3551's online portfolio
+# Daniel Heslop Portfolio
+online portfolio for Daniel Heslop (@h3551)
